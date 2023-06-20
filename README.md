@@ -1,5 +1,8 @@
+<head>
+   <link rel="stylesheet" href="style.css" />
+</head>
 ![logo](https://github.com/zeher-avi/zeher-avi/blob/main/zeher-avi.png)
-<h1 align="center">Hi 👋, I'm Abhinav Bhattacharya</h1>
+<h1 id="bg" align="center">Hi 👋, I'm Abhinav Bhattacharya</h1>
 <h3 align="center">Looking forward for a bright future in IT</h3>
 <img align="right" width="300" alt="typing fast" src="https://i.pinimg.com/originals/29/12/98/29129842108c46684a26c427741db074.gif">
 
