@@ -6,7 +6,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/zeher-avi/zeher-avi/output/snake.svg" alt="Snake animation" />
+
 
 ###
 
